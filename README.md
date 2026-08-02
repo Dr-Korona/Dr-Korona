@@ -4,6 +4,6 @@
   |:_/ |           Role:       Full-Stack & Game Dev
  //   \ \          Languages:  TS, JS, PHP, Python, C#, Rust
 (|     | )         Frontend:   Svelte, React, Tailwind, ShadcnUI
-/'\_   _/`\         Backend:    Laravel, Axum, Django, Node.js
-\___)=(___/         Env:        WSL2 Ubuntu
+/'\_   _/`\        Backend:    Laravel, Axum, Django, Node.js
+\___)=(___/        Env:        WSL2 Ubuntu
 </pre>
