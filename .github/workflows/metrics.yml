@@ -24,6 +24,10 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes, percentage
+
+          plugin_isometric_calendar: yes
+          plugin_isometric_calendar_duration: 1
+          
           plugin_habits: no
           plugin_lines: no
           filename: metrics.svg
