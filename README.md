@@ -8,10 +8,6 @@
 \___)=(___/          Env:        WSL2 Ubuntu
 </pre>
 
-<div style="background-color: #161b22; border: 1px solid #30363d; padding: 12px 16px; border-radius: 6px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center;">
-    <span style="font-family: 'JetBrains Mono', monospace; font-size: 12px; color: #8b949e; margin-right: 4px;">Currently Learning:</span>
-    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-    <img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white" alt="Axum">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-    <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot">
-</div>
+<p align="center">
+  <img src="metrics.svg" alt="Metrics" />
+</p>
