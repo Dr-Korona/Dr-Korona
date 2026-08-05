@@ -9,5 +9,5 @@
 </pre>
 
 <p align="center">
-  <img src="metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/Dr-Korona/Dr-Korona/main/metrics.svg?v=1" alt="Metrics" />
 </p>
